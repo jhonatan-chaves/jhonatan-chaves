@@ -17,6 +17,8 @@
   <img align="center" alt="jhonatan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jhonatan-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jhonatan-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  
+  
+   ![Snake animation](https://github.com/jhonatan-chaves/jhonatan-chaves/blob/output/github-contribution-grid-snake.svg)
 </div>
-
 
