@@ -3,9 +3,9 @@
 
 
 **jhonatan-chaves/jhonatan-chaves**!
- <divisão alinhar="Centro">
+<divisão alinhar="Centro">
   <a href="https://github.com/jhonatan-chaves">
-  
+  <imagem altura="180em" fonte="https://github-readme-stats.vercel.app/api?username=jhonatan-chaves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <imagem altura="180em" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-chaves&layout=compact&langs_count=7&theme=dracula"/>
 </divisão>
 
