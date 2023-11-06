@@ -3,7 +3,7 @@
 
 
 **jhonatan-chaves/jhonatan-chaves**!
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatan-chaves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="jhonatan-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
