@@ -2,7 +2,7 @@
     AQUI VOCÊ ENCONTRA PROJETOS PRATICOS E PESSOAIS!
 
 
-**jhonatan-chaves/jhonatan-chaves** Aqui está meus repositorios de codigos!
+**jhonatan-chaves/jhonatan-chaves**!
 
 <div align="center">
   <a href="https://github.com/jhonatan-chaves">
