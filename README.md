@@ -1,5 +1,5 @@
-### OLÁ! SEJAM BEM VINDOS AO MEU PERFIL 👋
-    AQUI VOCÊS ECONTRA PROJETOS EM JAVA E SPRING/SPRING BOOT!
+### OLÁ :)! SEJAM BEM VINDOS 👋
+    AQUI VOCÊ ENCONTRA PROJETOS PRATICOS E PESSOAIS!
 
 
 **jhonatan-chaves/jhonatan-chaves** Aqui está meus repositorios de codigos!
