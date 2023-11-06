@@ -1,5 +1,5 @@
-### OLÁ :)! SEJAM BEM VINDOS 👋
-    AQUI VOCÊ ENCONTRA PROJETOS PRATICOS E PESSOAIS!
+### HELLO :)! BE WELCOME 👋
+   HERE YOU WILL FIND PRACTICAL AND PERSONAL PROJECTS!
 
 
 **jhonatan-chaves/jhonatan-chaves**!
