@@ -18,6 +18,6 @@
   <img align="center" alt="jhonatan-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
   
-   ![Snake animation](https://github.com/jhonatan-chaves/jhonatan-chaves/blob/output/github-contribution-grid-snake.svg)
+   [Snake animation](https://github.com/jhonatan-chaves/jhonatan-chaves/blob/output/github-contribution-grid-snake.svg)
 </div>
 
