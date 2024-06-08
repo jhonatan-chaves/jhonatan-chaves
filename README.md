@@ -1,6 +1,6 @@
-### HELLO :)! BE WELCOME 👋
+### HELLO :)!👋
 HERE YOU WILL FIND PRACTICAL AND PERSONAL PROJECTS!
-
+### Meu nome é Jhonatan chaves
 **jhonatan-chaves/jhonatan-chaves**!
 
 <ul>
