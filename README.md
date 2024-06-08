@@ -1,10 +1,10 @@
-<h1>Hi There! 👋</h1>
+<h1>Hi There:)! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkeding.com/in/jhonatanchavess/)](https://www.linkedin.com/in/jhonatanchavess/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:contato@fernandakipper.com)
-
-<img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
+https://www.linkedin.com/in/jhonatanchavess/
+<img align="right" alt="jhon" src=""  width="300px"/>
 
 ## My name is Fernanda Kipper
 (Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
