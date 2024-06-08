@@ -2,18 +2,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkeding.com/in/jhonatanchavess/)](https://www.linkeding.com/in/jhonatanchavess/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:contato@fernandakipper.com)
+[![Gmail Badge](https://img.shields.io/badge/jhonatan.chaves001@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonatan.chaves001@gmail.com)](mailto:jhonatan.chaves001@gmail.com)
 https://www.linkedin.com/in/jhonatanchavess/
 <img align="right" alt="jhon" src=""  width="300px"/>
 
 ## My name is Jhonatan Chaves
-(Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
-- 👩‍💻 Software Enginner @[Itaú](https://www.itau.com.br/)
-- 🏆 Microsft MVP
-- 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@kipperdev) and share informative content on my [Instagram](https://www.instagram.com/kipper.dev/).
-- 🎓 Computer Science Student @ [UFPEL](https://portal.ufpel.edu.br/)
-- 🌐 Passionate about web development
-- 💡 Love a good challenge
+(Java | PostgreSQL | Spring Boot | AWS | Angular | Ionic | Typescript | Javascript | HTML | CSS ) 🚀
+- 👩‍💻 Sistem Programer
+- 🎓 Software Enginner Student 
+- 🌐 Passionate about back-end development
 
 <div align="left">
   
