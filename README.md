@@ -6,7 +6,7 @@
 https://www.linkedin.com/in/jhonatanchavess/
 <img align="right" alt="jhon" src=""  width="300px"/>
 
-## My name is Fernanda Kipper
+## My name is Jhonatan Chaves
 (Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Software Enginner @[Itaú](https://www.itau.com.br/)
 - 🏆 Microsft MVP
@@ -17,6 +17,6 @@ https://www.linkedin.com/in/jhonatanchavess/
 
 <div align="left">
   
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Jhonatan top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-chaves&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
